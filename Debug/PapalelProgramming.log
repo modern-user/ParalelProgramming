@@ -1,0 +1,9 @@
+﻿  PapalelProgramming.cpp
+C:\Users\Daniil\source\repos\PapalelProgramming\PapalelProgramming.cpp(23,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Daniil\source\repos\PapalelProgramming\PapalelProgramming.cpp(75,30): warning C4244:  =: преобразование "_Rep" в "double", возможна потеря данных
+C:\Users\Daniil\source\repos\PapalelProgramming\PapalelProgramming.cpp(75,30): warning C4244:         with
+C:\Users\Daniil\source\repos\PapalelProgramming\PapalelProgramming.cpp(75,30): warning C4244:         [
+C:\Users\Daniil\source\repos\PapalelProgramming\PapalelProgramming.cpp(75,30): warning C4244:             _Rep=__int64
+C:\Users\Daniil\source\repos\PapalelProgramming\PapalelProgramming.cpp(75,30): warning C4244:         ]
+C:\Users\Daniil\source\repos\PapalelProgramming\PapalelProgramming.cpp(83,14): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+  PapalelProgramming.vcxproj -> C:\Users\Daniil\source\repos\PapalelProgramming\Debug\PapalelProgramming.exe
